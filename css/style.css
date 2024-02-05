@@ -1,0 +1,55 @@
+.text {
+    font-family: 'Rubik', sans-serif;
+}
+
+.block {
+    font-family: Verdana
+}
+
+button {
+    font-size: 18px;
+    padding: 1em 3.3em;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    border: none;
+    border-radius: 5px;
+    background: #ffd41c;
+    box-shadow: #4b3d02 0px 40px 29px 0px;
+    will-change: transform;
+    transition: all 0.3s;
+    border-bottom: 2px solid #ffd41c;
+}
+
+.button-wrapper{
+	display: flex;	
+	justify-content: center;	
+}
+
+.button-wrapper{
+    margin-top:100px;
+    }
+
+    button {
+        font-size: 18px;
+        padding: 1em 3.3em;
+        cursor: pointer;
+        color: rgb(255, 255, 255);
+        font-weight: 900;
+        border: none;
+        border-radius: 5px;
+        background: #ffd41c;
+        box-shadow: #4b3d02 0px 40px 29px 0px;
+        will-change: transform;
+        transition: all 0.3s;
+        border-bottom: 2px solid #ffd41c;
+    }
+    
+    .button-mineinside{
+        display: flex;	
+        justify-content: center;	
+    }
+    
+    .button-mineinside{
+        margin-top:50px;
+        }
